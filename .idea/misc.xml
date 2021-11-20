@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/KotlinPro/Authorization_abramov/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/KotlinPro/Authorization_abramov/app/src/main/res/layout/activity_sign_in_success.xml" value="0.5541666666666667" />
         <entry key="..\:/KotlinPro/Authorization_abramov/app/src/main/res/layout/activity_splash.xml" value="0.5541666666666667" />
       </map>
     </option>

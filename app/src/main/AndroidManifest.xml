@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Authorization_abramov">
         <activity
+            android:name=".SignInSuccess"
+            android:exported="false" />
+        <activity
             android:name=".SplashActivity"
             android:exported="true">
             <intent-filter>
@@ -27,6 +30,10 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
     </application>
 
 </manifest>
